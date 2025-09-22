@@ -27,6 +27,6 @@ Currently focused on mastering C++ .
 - 💼 LinkedIn: (www.linkedin.com/in/abdel-rahman-samy-abdel-gawad-6b237233b
 
 ) 
-- 🌐 Portfolio: https://github.com/abdo-samy [your-portfolio.com](https://your-portfolio.com)
+- 🌐 Portfolio: https://github.com/abdo-samy 
 
 ---
