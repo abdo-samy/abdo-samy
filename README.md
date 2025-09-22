@@ -4,9 +4,8 @@
 Hi, I'm Abdelrahman Samy — a passionate Computer Science student at Cairo University, exploring the world of Artificial Intelligence .  
 Currently focused on mastering C++ .
   </samp>
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdo-samy&show_icons=true&theme=radical" alt="Abdelrahman Sami's Github Stats"/>
+
+
 </p>
 
 ---
@@ -31,12 +30,3 @@ Currently focused on mastering C++ .
 - 🌐 Portfolio: https://github.com/abdo-samy [your-portfolio.com](https://your-portfolio.com)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdo-samy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-samy&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
