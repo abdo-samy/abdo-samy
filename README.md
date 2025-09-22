@@ -24,7 +24,7 @@ Currently focused on mastering C++ .
 ## 📫 Contact Me
 
 - 📧 Email: as01070113587@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/your-link](www.linkedin.com/in/abdel-rahman-samy-abdel-gawad-6b237233b
+- 💼 LinkedIn: (www.linkedin.com/in/abdel-rahman-samy-abdel-gawad-6b237233b
 
 ) 
 - 🌐 Portfolio: https://github.com/abdo-samy [your-portfolio.com](https://your-portfolio.com)
