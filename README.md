@@ -1,8 +1,8 @@
 ## Hi AbdelRhman 👋
 <p align="center">
   <samp>
-Hi, I'm Abdelrahman Sami — a passionate Computer Science student at Cairo University, exploring the world of Artificial Intelligence and Software Development.  
-Currently focused on mastering Python and C++ to build efficient, scalable, and real-world applications.
+Hi, I'm Abdelrahman Samy — a passionate Computer Science student at Cairo University, exploring the world of Artificial Intelligence .  
+Currently focused on mastering C++ .
   </samp>
   <br/>
   <br/>
@@ -14,27 +14,21 @@ Currently focused on mastering Python and C++ to build efficient, scalable, and 
 ## 👨‍💻 About Me
 
 - 🎓 Student at the Faculty of Computers and Artificial Intelligence, Cairo University.
-- 💡 Exploring the fields of **Artificial Intelligence**, **Problem Solving**, and **System Design**.
-- 💻 Currently working with **Python** and **C++**.
+- 💡 Exploring the fields of **Artificial Intelligence**, **Problem Solving**.
+- 💻 Currently working with **C++**.
 - 🌱 Always learning, always building.
 
----
 
-## 📌 Projects
-
-> Sample projects (replace with your real ones when ready):
-
-- 🔍 **Smart Search CLI Tool** — Command-line utility in C++ for searching structured data.
-- 🤖 **AI Practice Scripts** — Python scripts for AI basics and machine learning models.
-- 📊 **Grade Analyzer** — A Python tool for analyzing student records and generating insights.
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: abdo.samy.dev@gmail.com *(replace with your preferred email if needed)*
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link) *(send me your real link if you want it added)*
-- 🌐 Portfolio (optional): [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: as01070113587@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/your-link](www.linkedin.com/in/abdel-rahman-samy-abdel-gawad-6b237233b
+
+) 
+- 🌐 Portfolio: https://github.com/abdo-samy [your-portfolio.com](https://your-portfolio.com)
 
 ---
 
